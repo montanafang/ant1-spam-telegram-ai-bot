@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ant1 Spam Telegram AI Bot
 
 [English](README_EN.md)
@@ -80,6 +79,3 @@ d3x
 ## 鸣谢
 
 本项目是 [AI Anti Bot](https://github.com/assimon/ai-anti-bot) 的简单实现，特此感谢原作者的创意
-=======
-# ant1-spam-telegram-ai-bot
->>>>>>> 3a3b0fe5c4a249acd690f118bdbf3e1b2ee6756d
