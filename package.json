@@ -1,6 +1,7 @@
 {
-  "name": "spam-ai",
-  "version": "0.0.0",
+  "name": "ant1-spam-telegram-ai-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for detecting and handling spam messages using AI",
   "private": true,
   "scripts": {
     "deploy": "wrangler deploy",
@@ -12,5 +13,17 @@
     "@cloudflare/vitest-pool-workers": "^0.5.2",
     "wrangler": "^3.60.3",
     "vitest": "2.0.5"
-  }
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "spam",
+    "detection",
+    "ai"
+  ],
+  "author": "d3x",
+  "license": "MIT"
 }
